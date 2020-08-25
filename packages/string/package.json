@@ -1,5 +1,5 @@
 {
-  "name": "@3hson/string",
+  "name": "@tryghost/string",
   "version": "0.1.11",
   "repository": "https://github.com/TryGhost/Ghost-SDK/tree/master/packages/string",
   "author": "Ghost Foundation",
